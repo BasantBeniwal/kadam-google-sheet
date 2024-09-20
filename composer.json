@@ -1,5 +1,5 @@
 {
-  "name": "revolution/laravel-google-sheets",
+  "name": "kadam/kadam-google-sheet",
   "description": "Google Sheets API v4",
   "keywords": [
     "google",
@@ -30,8 +30,8 @@
   },
   "authors": [
     {
-      "name": "kawax",
-      "email": "kawaxbiz@gmail.com"
+      "name": "Kadam",
+      "email": "basant.beniwal@kadamtech.com"
     }
   ],
   "scripts": {
