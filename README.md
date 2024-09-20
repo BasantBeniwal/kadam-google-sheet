@@ -1,8 +1,8 @@
 # Google Sheets API v4 for Laravel
 
-[![packagist](https://badgen.net/packagist/v/revolution/laravel-google-sheets)](https://packagist.org/packages/revolution/laravel-google-sheets)
-[![Maintainability](https://api.codeclimate.com/v1/badges/20fdd1ca8f3737c383df/maintainability)](https://codeclimate.com/github/kawax/laravel-google-sheets/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/20fdd1ca8f3737c383df/test_coverage)](https://codeclimate.com/github/kawax/laravel-google-sheets/test_coverage)
+[![packagist](https://badgen.net/packagist/v/revolution/kadam-google-sheets)](https://packagist.org/packages/revolution/kadam-google-sheets)
+[![Maintainability](https://api.codeclimate.com/v1/badges/20fdd1ca8f3737c383df/maintainability)](https://codeclimate.com/github/BasantBeniwal/kadam-google-sheets/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/20fdd1ca8f3737c383df/test_coverage)](https://codeclimate.com/github/BasantBeniwal/kadam-google-sheets/test_coverage)
 
 ## Requirements
 - PHP >= 8.2
@@ -17,7 +17,7 @@
 
 ### Composer
 ```
-composer require revolution/laravel-google-sheets
+composer require revolution/kadam-google-sheets
 ```
 
 ### Laravel
@@ -57,8 +57,8 @@ Enable `Google Sheets API`, `Google Drive API`.
 - https://sheets.kawax.biz/
 
 Another Google API Series.
-- https://github.com/kawax/laravel-google-photos
-- https://github.com/kawax/laravel-google-searchconsole
+- https://github.com/kawax/kadam-google-photos
+- https://github.com/kawax/kadam-google-searchconsole
 
 ## Select auth type
 You must select an authentication type and configure it appropriately.
